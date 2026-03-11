@@ -1,4 +1,4 @@
- FindCourse
+## FindCourse
 
 A PHP-based web platform that helps students discover and explore courses offered by private instructors. Built with PHP, MySQL, and vanilla CSS.
 
