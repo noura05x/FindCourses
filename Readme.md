@@ -43,6 +43,6 @@ A PHP-based web platform that helps students discover and explore courses offere
 
 **Clone the repository**
 ```bash
-git clone https://github.com/your-username/FindCourses.git
+git clone https://github.com/noura05x/FindCourses.git
 ```
 This project was built for educational purposes.
