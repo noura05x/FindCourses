@@ -1,0 +1,17 @@
+db.php
+
+Admin/uploads/
+image/
+
+.DS_Store
+
+.AppleDouble
+
+.LSOverride
+
+.vscode/
+
+*.log
+
+error_log
+
