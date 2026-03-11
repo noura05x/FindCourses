@@ -45,4 +45,13 @@ A PHP-based web platform that helps students discover and explore courses offere
 ```bash
 git clone https://github.com/noura05x/FindCourses.git
 ```
+
+### Team
+
+Built with ♡ by:
+	•	Norah Aljandol
+	•	Ghala Alahmari
+	•	Naifa Alarifi
+
+
 This project was built for educational purposes.
